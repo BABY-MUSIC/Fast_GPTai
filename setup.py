@@ -17,15 +17,15 @@ with open("README.md", encoding="utf8") as readme:
 setup(
     name="teambabyAPI",
     version=version(),
-    author="Bad | Bad",
-    author_email="sukhwinderwarval50@gmail.com",
+    author="˹ ʙᴀʙʏ-ᴍᴜsɪᴄ ™˼𓅂",
+    author_email="uk977061@gmail.com",
     description="python api hub | teambabyAPI",
     long_description_content_type="text/markdown",
     long_description=long_desc,
     packages=find_packages(),
     license="MIT",
-    url="https://github.com/badmunda98/teambabyAPI",
-    download_url="https://github.com/badmunda98/teambabyAPI/blob/main/README.md",
+    url="https://github.com/BABY-MUSIC/teambabyAPI",
+    download_url="https://github.com/BABY-MUSIC/teambabyAPI/blob/main/README.md",
     install_requires=["pytz>=2023.3","requests-html","pillow","lxml_html_clean"],
     keywords=['python', "teambabyAPI","flask"],
     classifiers=[
@@ -53,9 +53,9 @@ setup(
     ],
     
     project_urls={
-        "Tracker": "https://github.com/badmunda98/teambabyAPI/issues",
-        "Community": "https://t.me/mr_sukkun",
-        "Source": "https://github.com/badmunda98/teambabyAPI",
+        "Tracker": "https://github.com/BABY-MUSIC/teambabyAPI/issues",
+        "Community": "https://t.me/uttam470",
+        "Source": "https://github.com/BABY-MUSIC/teambabyAPI",
     },
     python_requires="~=3.7",
 )
