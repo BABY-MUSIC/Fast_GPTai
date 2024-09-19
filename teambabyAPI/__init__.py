@@ -22,7 +22,7 @@ class teambabyAPI:
     def __init__(self)->None:
         """Api for various purpose
     support group : https://t.me/the_support_chat
-    owner : @mr_sukkun
+    owner : @uttam470
         """
         pass
     
