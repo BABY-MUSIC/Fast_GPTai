@@ -149,7 +149,7 @@ print(response)
 ```
 from teambabyAPI import api
 
-user_data = api.leetcode("Bad")
+user_data = api.leetcode("BABY-MUSIC")
 print(user_data)
 ```
 
@@ -165,7 +165,7 @@ print(user_data)
 
 ```
 from teambabyAPI import api
-search_results = api.github("Bad")
+search_results = api.github("BABY-MUSIC")
 print(search_results)
 ```
 
@@ -173,7 +173,7 @@ print(search_results)
 
 ```
 from teambabyAPI import api
-search_results = api.repo("Badrobot")
+search_results = api.repo("teambabyAPI")
 print(search_results)
 ```
 
@@ -191,7 +191,7 @@ print(search_results)
 
 ## Copyright (c) 2024-25
 
-## Author : Bad 👨‍💻
+## Author : ˹ ʙᴀʙʏ-ᴍᴜsɪᴄ ™˼𓅂 👨‍💻
 
 # Functions in the api module are as follows:
 
